@@ -315,3 +315,20 @@ But there are helpers available.  One of them mentioned above is [`asdf`](https:
 Plugins for `bats` and `shellcheck` are available meaning that you can use `asdf` to set up your
 `semver-tool` test environment as you wish: the current stable versions, exploratory versions, or
 surely one day the next stable versions.
+
+## Copyright and License
+
+Copyright 2013 François Saint-Jacques <fsaintjacques@gmail.com>  
+Copyright 2014-2026 François Saint-Jacque and other contributors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
